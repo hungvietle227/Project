@@ -1,0 +1,7 @@
+.form-content-style .form-control:disabled {
+    background-color: var(--bs-secondary-bg);
+    opacity: 1;
+}
+.form-style .row input {
+    background: white;
+}

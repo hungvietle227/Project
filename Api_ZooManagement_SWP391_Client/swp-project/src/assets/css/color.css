@@ -1,0 +1,50 @@
+/* Color */
+ul.higher-reach a:hover,footer.three ul.booking li a span:hover,
+.content-header a:hover,.header-social-media a:hover,.register a:hover,.featured-dishes p span,
+.best-solutions-service a h3:hover,.navbar-links li > a:hover,
+.discover li span,.weekly-special sup,.heading span,.bbr-price h3,.chef-text span,
+.welcome-to-foodio a h4:hover,.chef-text h3:hover,.fast-food-menus h3:hover,
+.recent-news h3:hover,.link-about a:hover,.deal-week h2 span,.footer-bootem h6 span,
+.seated h2,ul.trending-dishes-list li a:hover,
+.our-blog .recent-news-two h2:hover,.recent-posts li a,.recent-posts li h6 a:hover,
+ul.categories li a:hover,.featured-dishes a h5:hover,
+.box form .remember .second a,tr.Total,table.shop_table td.product-subtotal span,
+table.shop_table td.product-name a:hover,
+.opening-time li.closed span,.complimentary h5 a,.contact a h6,.featured-arae-three h4,
+.single-comment span,.pagination li a:hover,
+.private-dining-text h5 a:hover,.welcome-to-foodio span,.delicious span,.year-experience ul.star,
+.posts.Photo a:hover,footer.three .header-social-media a:hover,
+.category-choose span,.booking li span,.category-choose a h3:hover,.fast-food-menus span,
+span.theme-bg-clr{
+   
+    color: #f3274c;
+
+}
+/* Background Color */
+
+ul.instagram-posts figure:before,.dishes-list-img:before,.quote,.blog-img h4,.post-tags li a:hover,
+.single-comment a,.opening-hours,.history-text span,.preloader,::-webkit-scrollbar-thumb,
+.mobile-nav > ul > li.menu-item-has-children.active > ul.sub-menu li:before,
+.fast-food-menus a:hover i,button.apply-coupon:hover,.coupon-area .coupon button:hover,
+.content-header i,.button,.weekly-special span,button.update-cart,.three-slider button i:hover,
+.section-discover-menu .nav-pills .nav-link.active,.download-from,.app-foods:before,
+.nav-pills .show>.nav-link,.nav-pills .nav-link.active:before,.logo-white,.opening-time-number,
+.follow i,.featured-dishes-img:before,.featured-dishes svg:hover,.featured-arae-two:before,
+.pagination li.prev:hover,.pagination li.next:hover,
+ol.breadcrumb,table.shop_table thead,input[type='radio']:checked:after,.single-comment:before,
+.section-weekly #v-pills-tab,.featured-imagebox-gallery .featured-overlay,
+.featured-arae-three:before,
+span.swal-icon--error__line.swal-icon--error__line--left,
+span.swal-icon--error__line.swal-icon--error__line--right,
+button.swal-button.swal-button--confirm,
+.swal-icon--success__line
+{
+
+    background-color:#00214d;
+
+}
+
+.swal-icon--success{
+    border-color:#05386B;
+
+}

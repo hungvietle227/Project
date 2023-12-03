@@ -1,0 +1,303 @@
+.menu-icon {
+  display: none;
+}
+
+.icon {
+  vertical-align: middle;
+  line-height: 1px;
+  font-size: 20px;
+}
+
+.close_icon {
+  color: red;
+  margin-left: 30px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.add-new {
+  text-align: start;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.add-new span {
+  font-size: 25px
+}
+
+.search-container {
+  display: flex;
+  margin-right: 10px;
+}
+
+.search-content {
+  display: flex;
+  margin-right: 10px;
+}
+
+.table-content {
+  width: 100%;
+  height: 100%;
+  border-radius: 8px 8px 8px 8px;
+  /* padding: 10px; */
+  /* background: white; */
+}
+
+.table {
+  height: 94%;
+}
+
+.table .table-dark {
+  --bs-table-bg: #8D8741;
+}
+
+.table>tbody {
+  vertical-align: middle;
+}
+
+.table-component {
+  width: 92%;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  padding: 6px;
+  /* align-items: center; */
+  margin-top: 26px;
+  background: white;
+  border: 1px solid wheat;
+  border-radius: 8px 8px 8px 8px;
+}
+
+.AppHeader {
+  height: 8% !important;
+  background: #f3d099;
+  box-shadow: rgba(107, 107, 107, 0.1) 0px 20px 25px -5px, rgba(90, 90, 90, 0.04) 0px 10px 10px -5px;
+  margin-bottom: 10px;
+}
+
+.pagination-container {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: end;
+}
+
+.table-content table {
+  margin-bottom: 0;
+  height: 100px;
+}
+
+.table-content table tbody tr {
+  height: 115px;
+}
+
+.row {
+  --mdb-gutter-x: 1.5rem;
+  --mdb-gutter-y: 0;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: calc(var(--mdb-gutter-y)*-1);
+  margin-right: calc(var(--mdb-gutter-x)*-0.5);
+  margin-left: calc(var(--mdb-gutter-x)*-0.5);
+  width: 100%;
+  justify-content: space-between;
+
+}
+
+.MuiPaper-root {
+font-size: medium !important;
+display: table !important;
+max-width: min-content !important;
+}
+
+.row-content {
+  width: 50%;
+}
+
+.row-content-2 {
+  width: 50%;
+  display: flex;
+}
+
+.form-container {
+  width: 82%;
+  margin-top: 18px;
+}
+
+.form-container-1 {
+  width: 100%;
+}
+
+.form-content {
+  display: flex;
+  justify-content: center;
+}
+
+.app-container {
+  flex-direction: column;
+  height: 100vh;
+  display: flex;
+}
+
+.SideMenuAndPageContent {
+  flex: 1;
+  overflow-y: auto;
+}
+
+.form {
+  width: 88%;
+  border-radius: 15px 15px 15px 15px;
+  background: white;
+  padding: 7px 17px 0px 30px;
+}
+
+.form-view {
+  width: 70%;
+  border-radius: 15px 15px 15px 15px;
+  background: white;
+  padding: 24px 15px 22px 30px;
+  border: 1px solid wheat;
+}
+
+.label-info {
+  font-weight: bold;
+  font-size: large;
+}
+
+.Animal_Infomation {
+  padding: 15px 0px 10px 25px;
+  border: groove;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.Cage_Infomation {
+  padding: 15px 0px 10px 25px;
+  border: groove;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.ZooTrainer-Information {
+  padding: 15px 0px 10px 25px;
+  border: groove;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.Food-Information {
+  padding: 15px 0px 10px 25px;
+  border: groove;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.Schedule-Information {
+  padding: 15px 0px 10px 25px;
+  border: groove;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.form-control {
+  width: 95%;
+}
+
+.control-field {
+  display: block;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: var(--bs-body-color);
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-color: var(--bs-body-bg);
+  background-clip: padding-box;
+  border: var(--bs-border-width) solid var(--bs-border-color);
+  border-radius: var(--bs-border-radius);
+  transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+.btn-header {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.form-header {
+  margin-top: 10px;
+  text-align: center;
+}
+
+:where(.css-dev-only-do-not-override-1ck3jst).ant-menu {
+  font-size: 17px;
+}
+
+/* #sidebar {
+  grid-area: sidebar;
+  
+  background-color: #263043;
+  
+  display: none;
+} */
+
+.Slide-Container {
+  width: 18%;
+  overflow-y: auto;
+  transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  margin-top: 14px;
+}
+
+.table-container {
+  display: flex;
+  width: 82%;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.ant-radio-button span {
+  vertical-align: middle;
+}
+
+.sidebar-responsive {
+  display: none !important;
+  position: absolute;
+  /*
+      we want the z-index of the sidebar higher so that
+      the charts are not showing over the sidebar 
+      on small screens
+    */
+  z-index: 12 !important;
+}
+
+.sidebar-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 30px 0px 30px;
+  margin-bottom: 30px;
+}
+
+.sidebar-title>span {
+  display: none;
+}
+
+@media screen and (max-width: 992px) {
+  .menu-icon {
+    display: inline;
+  }
+
+  .sidebar-title>span {
+    display: inline;
+  }
+
+  .table-container {
+    width: 95%;
+  }
+}
+
+.btn-footer {
+  text-align: end;
+  margin-right: 20px;
+  display: flex;
+  justify-content: end;
+}

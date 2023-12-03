@@ -1,0 +1,1962 @@
+@media only screen and (max-width: 3220px) and (min-width: 1400px){
+  .hero-section {
+      max-height: 710px;
+      min-height: 710px;
+  }
+  header.three .mobile-nav.open.mobile-nav{
+    width: 100%;
+  }
+  header.three #mobile-nav {
+    display: flex !important;
+    justify-content: space-between;
+    padding: 100px 350px;
+  }
+  header.three .mobile-nav > ul > li:not(:last-child) {
+    border-bottom: 0px solid #000000;
+    width: 300px;
+  }
+  header.three .mobile-nav > ul > li > a {
+    font-size: 60px;
+    line-height: 70px;
+  }
+  header.three .booking li span{
+    color: white;
+  }
+  header.three .booking .contact h6 {
+    color: white;
+    display: inline-flex !important;
+  }
+  header.three .mobile-nav > ul li > a {
+    color: white;
+  }
+  header.three .mobile-nav > ul > li.menu-item-has-children:before {
+    display: none;
+  }
+  header.three #mobile-nav .res-log,header.three .booking .contact h6 {
+    display: none;
+  }
+  header.three .mobile-nav > ul li li a {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  header.three .mobile-nav > ul > li.menu-item-has-children:before {
+    top: 34px;
+  }
+  header.three .mobile-nav > ul > li.menu-item-has-children > ul.sub-menu {
+    border-top: 0px solid #000;
+  }
+  header.three a#res-cross {
+    display: contents;
+  }
+  header.three .social-media {
+    display: flex;
+    margin: auto;
+    justify-content: start;
+    margin-top: 80px;
+  }
+}
+@media only screen and (max-width: 1400px) and (min-width: 1200px){
+  .hero-section {
+      max-height: 600px;
+      min-height: 600px;
+  }
+  header.three .mobile-nav.open.mobile-nav{
+    width: 100%;
+  }
+  header.three #mobile-nav {
+    display: flex !important;
+    justify-content: space-between;
+    padding: 60px 200px;
+  }
+  header.three .mobile-nav > ul > li:not(:last-child) {
+    border-bottom: 0px solid #000000;
+    width: 300px;
+  }
+  header.three .mobile-nav > ul > li > a {
+    font-size: 46px;
+    line-height: 55px;
+  }
+  header.three .booking li span{
+    color: white;
+  }
+  header.three .booking .contact h6 {
+    color: white;
+    display: inline-flex !important;
+  }
+  header.three .mobile-nav > ul li > a {
+    color: white;
+  }
+  header.three .mobile-nav > ul > li.menu-item-has-children:before {
+    display: none;
+  }
+  header.three #mobile-nav .res-log,header.three .booking .contact h6 {
+    display: none;
+  }
+  header.three .mobile-nav > ul li li a {
+    font-size: 18px;
+    line-height: 24px;
+  }
+  header.three .mobile-nav > ul > li.menu-item-has-children:before {
+    top: 34px;
+  }
+  header.three .mobile-nav > ul > li.menu-item-has-children > ul.sub-menu {
+    border-top: 0px solid #000;
+  }
+  header.three a#res-cross {
+    display: contents;
+  }
+  header.three .social-media {
+    display: flex;
+    margin: auto;
+    justify-content: start;
+    margin-top: 80px;
+  }
+}
+@media(max-width: 1500px){
+  .booking li i {
+    width: 60px;
+    height: 60px;
+  }
+  .cart-popup {
+    top: 57px;
+  }
+  .booking li svg {
+    width: 30px;
+  }
+  .deal-week h2 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  .blog-img img {
+    width: 100%;
+  }
+}
+@media(max-width: 1400px){
+  .featured-arae-three h1 {
+    font-size: 74px;
+  }
+  .logo img {
+    width: 80%;
+  }
+  ul.star li i {
+    font-size: 12px;
+    padding-right: 4px;
+  }
+  .featured-arae-two-img.three img {
+    width: 48%;
+  }
+  .about-chef h2 {
+    font-size: 42px;
+  }
+  .posts {
+    padding: 30px;
+  }
+  .navbar-links li.navbar-dropdown .dropdown a {
+    padding-top: 12px;
+    padding-bottom: 12px;
+  }
+  .private-dining-text p {
+    font-size: 16px;
+  }
+  .free-delivery {
+    width: 100%;
+  }
+  .category-choose-img img {
+    margin: auto;
+  }
+  .review h3 {
+    font-size: 35px;
+  }
+  .video i {
+    width: 70px;
+    height: 70px;
+  }
+  .category-choose-img:before {
+    width: 93%;
+    top: 50%;
+    left: 50%;
+  }
+  .easy-orded {
+    width: 31%;
+  }
+  .easy-orded i {
+    width: 100px;
+    height: 100px;
+  }
+  .easy-orded svg {
+    width: 54px;
+  }
+  .easy-orded sup {
+    width: 30px;
+    height: 30px;
+    font-size: 12px;
+  }
+  .easy-orded-video a {
+    top: 50%;
+    left: 50%;
+  }
+  .fast-food-menus h3 {
+    font-size: 18px;
+  }
+  .fast-food-menus a i {
+    width: 30px;
+    height: 30px;
+  }
+  .opening-time {
+    padding: 30px;
+  }
+  .opening-time li {
+    padding-bottom: 12px;
+  }
+  .fast-food-menus a i svg {
+    padding: 6px;
+  }
+  .solutions-img img {
+    width: 100%;
+  }
+  .best-solutions-service.two {
+    width: 100%;
+  }
+  .deal-week.two > img {
+    left: -36%;
+    top: 55px;
+    width: 53%;
+  }
+  .deal-week.two {
+    padding: 50px;
+    padding-left: 120px;
+  }
+  .section-weekly .nav-pills .nav-link:before {
+    left: 18px;
+    top: 26px;
+  }
+  .fast-food-menus.two .fast-food-img:before {
+    left: -41px;
+    width: 255px;
+  }
+  header.three .contact span, .contact h6 {
+    font-size: 13px;
+  }
+  .section-discover-menu .nav-pills .nav-link {
+    font-size: 18px;
+  }
+  .featured-arae-two {
+    padding-top: 150px;
+  }
+  .quality-foods li {
+    margin-bottom: 20px;
+  }
+  .delicious-menu ul li p {
+    width: 100%;
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .private-dining-text h5 {
+    font-size: 16px;
+  }
+  .heading h2 {
+    width: 100%;
+  }
+  .navbar-links li > a {
+    font-size: 16px;
+  }
+  .heading-two .line {
+    margin-bottom: 50px;
+    height: 8px;
+  }
+  .discover-menu {
+    padding: 25px 0px;
+  }
+  .button:before {
+    right: -6px;
+  }
+  .follow {
+    padding-top: 113px;
+    padding-bottom: 100px;
+  }
+  .follow h2 {
+    font-size: 40px;
+  }
+  .follow i {
+    margin-bottom: 20px;
+  }
+  .chef-text {
+    width: 330px;
+    height: 330px;
+  }
+  .content-header svg {
+    width: 20px;
+  }
+  #countdown ul li {
+    width: 90px;
+    height: 90px;
+  }
+  .booking li {
+    margin-bottom: 20px;
+  }
+  .navbar-links li a {
+    padding: 30px 22px;
+  }
+  .private-table h3 {
+    font-size: 26px;
+  }
+  .bbq h2 {
+    font-size: 44px;
+  }
+  #progress {
+    height: 60px;
+    width: 60px;
+  }
+  span#progress-value i {
+    font-size: 20px;
+  }
+  #countdown ul li span {
+     margin-top: 0px; 
+  }
+  .download-from h5 {
+    font-size: 16px;
+  }
+  .heading h2 {
+    width: 100% !important;
+  }
+  .content-header i {
+    width: 34px;
+    height: 34px;
+  }
+  .chef-text h3 {
+    font-size: 30px;
+  }
+  #countdown {
+    top: 6%;
+  }
+  .footer-bootem {
+    margin-top: 60px;
+  }
+  .private-table h3 {
+    font-size: 26px;
+  }
+  .category-choose-img {
+    margin-bottom: 5px;
+  }
+  .about-food-text .mt-5 {
+    margin-top: 2rem!important;
+  }
+  .recent-news h3 {
+    padding-top: 10px;
+    padding-bottom: 20px;
+  }
+  .chef-text .social-media {
+    margin-top: 15px;
+  }
+  .dishes.owl-carousel .owl-item img{
+    width: 100%;
+  }
+  .featured-dishes-img:before {
+    width: 300px;
+    height: 140px;
+  }
+  .restaurant-card span {
+    font-size: 22px;
+  }
+  .best-food-restaurants {
+    width: 100%;
+  }
+  .reserve-table {
+    padding: 50px;
+  }
+  .our-blog .recent-news-two h2 {
+    font-size: 46px;
+    width: 100%;
+  }
+  .product-detail-img .featured-dishes-img:before {
+    width: 457px;
+  }
+  .blog-img-video img {
+    width: 100%;
+  }
+  .parties-events-img img {
+    width: 100%;
+  }
+  .product-img img {
+    border-radius: 30px;
+    width: 100%;
+  }
+}
+@media(max-width: 1400px){
+  .content-header h4 {
+    font-size: 14px;
+  }
+  .featured-area h1 {
+    font-size: 110px;
+    line-height: 140px;
+  }
+  .history-text h3 {
+    font-size: 24px;
+  }
+  .best-solutions-service h3 {
+    font-size: 24px;
+  }
+  .header-social-media a {
+    margin-left: 31px;
+    font-size: 14px;
+  }
+  .register a {
+    font-size: 14px;
+  }
+  .button {
+    padding: 16px 33px;
+    height: 58px;
+ }
+  h2 {
+    font-size: 50px;
+  }
+  .button:before {
+    height: 70px;
+    top: -6px;
+  }
+  .weekly-special h5 {
+    font-size: 18px;
+  }
+  .hero-section {
+    padding-top: 120px;
+  }
+  .about-text {
+    width: 100%;
+  }
+  .discover-img img {
+    width: 100%;
+  }
+  .bratlee-hamint p {
+    font-size: 20px;
+    line-height: 34px;
+  }
+  .reserve-table-text h3 {
+    width: 69%;
+  }
+  img.bratlee-hamint-1 {
+    width: 39%;
+  }
+  .chef > img {
+    width: 100%;
+  } 
+  .app-foods:before {
+    width: 660px;
+  }
+  .featured-dishes-img img {
+    margin: auto;
+    width: 100%;
+  }
+  .recent-news h3 {
+    width: 100%;
+  }
+  .recent-news img {
+    margin-right: 26px;
+  }
+  .slider-home-1.owl-theme .owl-nav.disabled+.owl-dots {
+    left: 9%;
+  }
+  .section-discover-menu .nav-pills .nav-link.active, .section-discover-menu .nav-pills .show>.nav-link {
+    width: 170px;
+    height: 170px;
+  }
+  .section-discover-menu .nav-pills .nav-link {
+    width: 170px;
+    height: 170px;
+  }
+  .best-food-restaurants span {
+    font-size: 50px;
+  }
+  .featured-arae-two-img img {
+    width: 100%;
+  }
+  .featured-arae-two:before {
+    width: 550px;
+    height: 273px;
+  }
+  .bbtn {
+    width: 90%;
+  }
+  .good-food-steak-upto {
+    width: 160px;
+    height: 160px;
+  }
+  ul.quality-foods li h6 {
+    font-size: 14px;
+  }
+  .delicious-menu {
+    padding: 40px 25px;
+  }
+  .best-solutions-service i {
+    width: 130px;
+    height: 130px;
+    padding: 28px;
+  }
+  .deal-week-time img {
+    width: 100%;
+  }
+  .watch-video .heading h2 {
+    font-size: 42px;
+  }
+  .watch-video-img img,.recent-news-two > img {
+    width: 100%;
+  }
+  .recent-news-two .recent-news h3 {
+    font-size: 24px;
+  }
+  .watch-video-img img.arrow{
+    width: auto;
+  }
+  .private-dining img {
+    width: 48%;
+  }
+  .contact span, .contact h6 {
+    font-size: 16px;
+  }
+  .choosecategory.owl-carousel .owl-item img{
+    width: 100%;
+  }
+  .featured-arae-three:before {
+    width: 666px;
+    height: 340px;
+  }
+}
+@media(max-width: 1200px){
+	.section-discover-menu .nav.nav-pills {
+    margin-bottom: 20px;
+  }
+  .discover-menu {
+    padding: 10px 0px;
+    padding-bottom: 40px;
+  }
+  .cart-checkout a {
+    display: block;
+  }
+  header.three .social-media{
+    display: none;
+  }
+  .title-area-img img {
+    width: 100%;
+  }
+  #mobile-nav, .mobile-nav {
+    background-image: none !important;
+  }
+  .section-weekly #v-pills-tab {
+    padding: 30px;
+  }
+  .hero-section {
+    max-height: 660px;
+    min-height: 660px;
+  }
+  .good-food-steak-img {
+    margin-top: 30px;
+  }
+  .good-food-steak-upto {
+    top: 16%;
+    left: 4%;
+  }
+  .benefit-img img,.featured-dishes-img img {
+    width: 100%;
+	}
+  .product-detail-img .featured-dishes-img:before {
+    width: 100%;
+  }
+  .parties-events-text {
+    margin-top: 60px;
+	}
+	.seated {
+    text-align: center;
+    margin-top: 20px;
+	}
+  .pagination {
+    margin: auto;
+    margin-bottom: 40px;
+	}
+  .opening-hours {
+    padding: 30px 40px;
+    width: 95%;
+    margin-bottom: 100px;
+	}
+  .chef-img-stlye .year-experience {
+    width: 66%;
+  }
+  .get-in-touch h2 {
+    margin-bottom: 30px;
+    font-size: 50px;
+	}
+  .chef-img-stlye img{
+  	width: 100%;
+  }
+  .chef-img-stlye{
+  	width: 90%;
+  }
+  .cart_totals-checkout {
+    padding: 30px;
+  }
+  form.add-review.leave-comment.comment {
+    margin-bottom: 60px;
+	}
+	table.shop_table_responsive tr {
+    padding: 0 20px;
+  }
+  .bar-menu i{
+  	margin-right: 0;
+  }
+  ul.instagram-posts img {
+    height: 250px;
+  }
+  .welcome-to-foodio {
+    margin: auto;
+    margin-bottom: 40px;
+	}
+	.best-food-restaurants form{
+		margin-left: 0;
+	}
+  .history-text span {
+    left: 214px;
+	}
+  .deal-week.two > img{
+  	display: none;
+  }
+  .link-about.Newsletter {
+    margin-bottom: 40px;
+	}
+  .featured-arae-three p {
+    width: 86%;
+  }
+  .fast-food-menus.two .fast-food-img:before{
+  	display: none;
+  }
+  .link-about.Newsletter form input {
+    width: 70%;
+  }
+  header.three .logo .bar-menu {
+    display: block;
+	}
+	.deal-week.two {
+    margin-top: 40px;
+	}
+	.deal-week.two > img {
+    left: 30%;
+    top: -36%;
+    width: 34%;
+	}
+	.three-slider.owl-carousel .owl-item img {
+    width: 87%;
+    margin: auto;
+  }
+	.fast-food-menus h3 {
+    font-size: 20px;
+	}
+	.solutions-img{
+		text-align: center;
+	}
+	.solutions-img img {
+    width: auto;
+	}
+	.fastest-delivery-img {
+    position: relative;
+    margin-top: 40px;
+	}
+  .three-menu {
+    display: none !important;
+	}
+  header.three .contact{
+  	display: none;
+  }
+  .featured-arae-three h1 {
+    font-size: 80px;
+  }
+  .three-slider.owl-carousel {
+    text-align: center;
+	}
+  .fast-food-menus a i svg {
+    padding: 6px;
+	}
+  header.two .bar-menu i {
+  	display: block;
+  }
+  .bottom-bar {
+    padding: 20px;
+	}
+  #mobile-nav,.mobile-nav{
+        width: 40%;
+    }
+  header.one .bar-menu{
+    display: block;
+		}
+  .top-header,.navbar,.hamburger-icon {
+    display: none;
+		}
+  .section-discover-menu .nav-pills .nav-link.active, .section-discover-menu .nav-pills .show>.nav-link {
+    width: 170px;
+    height: 170px;
+    margin-bottom: 40px;
+		}
+		.section-discover-menu .nav-pills .nav-link {
+    margin-bottom: 20px;
+		}
+  .about-text {
+    margin-top: 20px;
+	}
+	.gap {
+    padding: 100px 0;
+	}
+	.no-top{
+	    padding-top: 0;
+	}
+	.no-bottom{
+	    padding-bottom: 0;
+	}
+	.section-featured {
+    padding-top: 280px;
+    margin-top: -212px;
+	}
+	.reserve-table .best-food-restaurants form {
+    margin-left: 0;
+  }
+  .bratlee-hamint {
+    width: 100%;
+  }
+  .manage-your-img img {
+    margin-top: 0px;
+	}
+  .featured-area {
+    margin-bottom: 60px;
+	}
+	.discover-menu:before {
+    width: 100%;
+  }
+  .reserve-table-text p {
+    margin-bottom: 40px;
+	}
+  .discover-img img {
+    width: auto;
+	}
+	.discover-img {
+    text-align: center;
+	}
+	.discover {
+    width: 90%;
+    margin: auto;
+	}
+	.best-food-restaurants {
+    width: 100%;
+	}
+	img.bratlee-hamint-2 {
+    position: relative;
+    top: 0;
+    z-index: -1;
+	}
+	img.bratlee-hamint-3 {
+    position: relative;
+    top: 0;
+    z-index: -1;
+	}
+	img.bratlee-hamint-1 {
+    position: relative;
+    right: 0;
+    bottom: 0px;
+    margin: 20px;
+	}
+	.bratlee-img {
+    text-align: center;
+    margin-top: 40px;
+		}
+	.reserve-table-text h3 {
+    width: 57%;
+	}
+	.chef {
+    text-align: center;
+    margin: auto;
+    margin-bottom: 40px;
+	}
+	.manage-your-img img {
+    width: 100%;
+	}
+	.app-foods:before {
+    top: auto;
+    bottom: 6%;
+	}
+	.recent-news {
+    margin-bottom: 30px;
+	}
+	.recent-news h3 {
+    width: 100%;
+    font-size: 36px;
+    line-height: 50px;
+	}
+	.logo-white {
+    margin-bottom: 40px;
+	}
+	.featured-dishes {
+    margin: 15px;
+  }
+  .discover h4 {
+    margin-top: 40px;
+	}
+	.section-discover-menu .nav-link svg {
+    display: none;
+	}
+	.section-discover-menu .nav-pills .nav-link.active, .section-discover-menu .nav-pills .show>.nav-link {
+    width: 140px;
+    height: 100px;
+    margin-bottom: 40px;
+    font-size: 20px;
+	}
+	.section-discover-menu .nav-pills .nav-link {
+    width: 140px;
+    height: 100px;
+    border: 5px solid #e4e4e4;
+    font-size: 20px;
+    margin-left: 6px;
+	}
+	.section-discover-menu .nav-pills .nav-link.active:before {
+    width: 91%;
+ }
+ header.two .bar-menu i {
+    color: black;
+	}
+	.welcome-to-foodio {
+    margin-top: 40px;
+	}
+	.featured-arae-two-img {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+	.featured-arae-two-img img{
+		width: auto;
+	}
+	.featured-arae-two-img.three {
+    margin-top: 40px;
+	}
+	.bbtn {
+    width: 51%;
+	}
+	ul.quality-foods li h6 {
+    font-size: 18px;
+	}
+	.best-solutions-service {
+    text-align: center;
+    margin-bottom: 40px;
+	}
+	.private-dining-text {
+    width: 78%;
+    margin: auto;
+    margin-top: 40px;
+	}
+	.watch-video-img {
+    margin-top: 30px;
+	}
+	.recent-news-two .recent-news h3 {
+    font-size: 24px;
+    line-height: 34px;
+	}
+	.featured-arae-three p {
+    margin: auto;
+	}
+	.featured-arae-three {
+    padding-top: 180px;
+	}
+	.featured-arae-three:before{
+		display: none;
+	}
+	.fastest-delivery-img .good-food-steak-upto {
+    left: 12px;
+	}
+	.about-food-text {
+    width: 100%;
+    margin-top: 40px;
+	}
+	.category-choose-img:before {
+    width: 93%;
+  }
+  .how-we-work:before {
+    width: 100%;
+    border-radius:0;
+  }
+  .easy-orded-video span {
+    left: 0;
+    margin-top: 30px;
+	}
+	.easy-orded-video img.arrow {
+    left: 47px;
+    top: 18%;
+	}
+	.easy-orded-video a {
+    top: 50%;
+    left: 75%;
+	}
+	.private-package {
+    width: 71%;
+    margin: auto;
+    margin-bottom: 40px;
+	}
+	.easy-orded-video {
+    margin-top: 40px;
+	}
+}
+@media(max-width: 993px){
+	.container.gap {
+    padding-left: 10px;
+  }
+	.seated h2 {
+    font-size: 80px;
+    line-height: 80px;
+	}
+	.boder-line{
+		display: none;
+	}
+	.chef-img-stlye{
+  	width: 100%;
+  }
+  .best-food-restaurants .reserve-a-table {
+    width: 100%;
+    padding: 25px;
+	}
+  .parties-events-text .quality-foods {
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+	.chef-detail {
+    margin-top: 40px;
+	}
+	.cart_totals-checkout {
+    margin-top: 40px;
+	}
+	.chef-img-stlye .year-experience {
+    width: 32%;
+	}
+	.our-blog .recent-news-two h2 {
+    font-size: 36px;
+    width: 100%;
+	}
+	 ul.instagram-posts img {
+    height: 180px;
+  }
+	.title-area-data h2 {
+    font-size: 60px;
+	}
+	ol.breadcrumb {
+    margin-bottom: 40px;
+	}
+	.private-package {
+    width: 100%;
+  }
+	.section-discover-menu .nav-pills .nav-link.active, .section-discover-menu .nav-pills .show>.nav-link {
+    margin-bottom: 30px;
+ }
+	.about-text {
+    width: 100%;
+	}
+	.restaurant-card.coctail {
+    margin-top: 50px;
+    margin-bottom: 50px;
+	}
+	.bbq {
+    margin-bottom: 50px;
+  }
+  .reserve-table-text h3 {
+    width: auto;
+    display: inline;
+	}
+	.chef > img {
+    width: auto;
+	}
+	.recent-news h3 {
+    font-size: 26px;
+    line-height: 36px;
+	}
+	.dishes .featured-dishes-img img{
+		width: 100%;
+	}
+	.featured-dishes-img:before {
+    width: 100%;
+    height: 100%;
+    display: none;
+  }
+  .footer-bootem {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .footer-bootem h6{
+    margin-bottom: 20px;
+  }
+  .reserve-table .best-food-restaurants form {
+    margin-left: 0px;
+    text-align: end;
+	}
+	.bbtn {
+    width: 34%;
+	}
+	.deal-week.two {
+    padding: 40px;
+  }
+  .link-about.Newsletter form input {
+    width: 100%;
+	}
+}
+@media(max-width: 768px){
+	.gap {
+    padding: 80px 0;
+	}
+	.no-top{
+		 padding-top: 0;
+	}
+	.no-bottom{
+		 padding-bottom: 0;
+	}
+  .featured-arae-three h1 {
+    font-size: 65px;
+  }
+  .bottom-bar  .logo img {
+    width: 80%;
+  }
+  .parties-events-text h2 {
+    font-size: 34px;
+  }
+  .featured-area h1 {
+    font-size: 94px;
+    line-height: 94px;
+    margin-top: 0;
+  }
+  .hero-section {
+    max-height: 750px;
+    min-height: 750px;
+  }
+	table.shop_table td.product-name{
+		flex-wrap: wrap;
+	}
+	.cart_totals {
+    padding: 34px;
+    margin-top: 20px;
+	}
+	.featured-dishes-img img {
+    width: 100%;
+	}
+	.featured-dishes.product-detail-img {
+    padding: 50px;
+    width: 100%;
+	}
+	.available {
+    margin-top: 20px;
+	}
+	.available span {
+    margin-right: 20px;
+  }
+  .product-info h3 {
+    width: 100%;
+  }
+	.review h3 {
+    font-size: 40px;
+  }
+	.benefits{
+		flex-wrap: wrap;
+	}
+	.review .single-comment {
+    flex-wrap: wrap;
+	}
+	.opening-hours {
+    flex-wrap: wrap;
+	}
+	.single-comment:before {
+  	display: none;
+  }
+  .review .single-comment img {
+    margin-right: 0px;
+    margin-bottom: 20px;
+	}
+	.review .single-comment h4 {
+    padding: 0;
+    padding-right: 10px;
+    padding-bottom: 10px;
+	}
+	.review .single-comment {
+    text-align: inherit;
+	}
+	.day-time {
+    margin-bottom: 30px;
+	}
+	.opening-hours{
+		padding-bottom: 0;
+	}
+	.get-in-touch .booking li {
+    width: 49%;
+    padding: 30px;
+  }
+	.get-in-touch h2 {
+    font-size: 40px;
+	}
+	.chef-detail h2 {
+    font-size: 40px;
+    margin-bottom: 30px;
+	}
+	.chef-detail ul li h6 {
+    font-size: 16px;
+  }
+	.deal-week h2 span{
+			font-size: 32px;
+	}
+	.single-comment {
+    padding: 15px;
+  }
+  .single-comment img {
+    margin-right: 14px;
+	}
+	.blog-img h4 {
+    font-size: 16px;
+  }
+  .single-comment h4 {
+    font-size: 22px;
+	}
+	li.single-comment span {
+    font-size: 14px;
+	}
+	li.single-comment.children {
+    margin-left: 20px;
+    margin-bottom: 0;
+	}
+	ul.instagram-posts img {
+   		height: 150px;
+  }
+	.follow h2 {
+    font-size: 40px;
+  }
+  ul.quality-foods li h6 {
+    font-size: 16px;
+	}
+		.bbtn {
+    	width: 45%;
+		}
+		.featured-arae-two-img.three img {
+    	width: 50%;
+		}
+		.featured-arae-two-img.three {
+     margin-top: 0px; 
+		}
+		.category-choose-img:before{
+			display: none;
+		}
+		.easy-orded-style {
+    	flex-wrap: wrap;
+		}
+		.easy-orded-video img{
+			width: 100%;
+			margin-top: 40px;
+		}
+	.easy-orded-video a {
+    top: 50%;
+    left: 50%;
+	}
+	.easy-orded {
+    width: 49%;
+	}
+	.easy-orded-video img.arrow,.easy-orded-video span{
+		display: none;
+	}
+		.featured-arae-three {
+    	padding-top: 180px;
+    }
+		#mobile-nav,.mobile-nav{
+        width: 50%;
+    }
+		.section-discover-menu .nav-pills .nav-link.active, .section-discover-menu .nav-pills .show>.nav-link {
+    width: 100px;
+    height: 68px;
+    font-size: 16px;
+    padding: 0;
+ }
+ .section-discover-menu .nav-pills .nav-link.active:before {
+    width: 86%;
+	}
+ .section-discover-menu .nav-pills .nav-link {
+   width: 100px;
+    height: 68px;
+    font-size: 16px;
+    border: 3px solid #e4e4e4;
+    margin-left: 6px;
+    padding: 0;
+	}
+		.section-featured {
+    padding-top: 280px;
+    margin-top: -212px;
+	}	
+		#progress {
+    height: 50px;
+    width: 50px;
+ }
+ span#progress-value i {
+    font-size: 16px;
+	}
+	.discover-img img {
+    width: 100%;
+	}
+	h2 {
+    font-size: 40px;
+	}
+	.video{
+		margin-top: 30px;
+	}
+	.video i {
+    margin-left: 0px;
+  }
+	.bratlee-img {
+    display: none;
+	}
+	.heading h2 {
+    width: 100%;
+	}
+	.slider-home-1.owl-theme .owl-nav.disabled+.owl-dots {
+    left: 6%;
+    position: relative;
+    top: auto;
+    bottom: 49px;
+    left: 41%;
+    margin-top: 12px;
+    width: 16%;
+    margin: 0;
+	}
+	.weekly-special {
+    margin-bottom: 60px;
+  }
+	.app-foods:before {
+    display: none;
+	}
+	.reserve-table-text h3 {
+    font-size: 35px;
+  }
+  .reserve-table {
+    padding: 40px;
+  }
+  .link-about h3 {
+    margin-bottom: 25px;
+    margin-top: 20px;
+	}
+	.best-food-restaurants span {
+    font-size: 40px;
+	}
+	.featured-arae-two .featured-arae-two-img img {
+    width: 100%;
+	}
+	.free-delivery h5 {
+    font-size: 16px;
+	}
+	.welcome-to-foodio {
+    width: 100%;
+    margin-top: 40px;
+	}
+	.featured-arae-two-img {
+    text-align: center;
+	}
+	.good-food-steak-upto h2 {
+    font-size: 30px;
+	}
+	.good-food-steak-upto h6 {
+    font-size: 12px;
+  }
+  .good-food-steak-upto {
+    width: 120px;
+    height: 120px;
+    top: 15%;
+	}
+	.good-food-steak h2 {
+    margin-bottom: 40px;
+	}
+	.delicious-menu.two {
+    margin-top: 40px;
+    margin-bottom: 40px;
+	}
+	.best-solutions {
+    flex-wrap: wrap;
+	}
+	.best-solutions p {
+    width: 100%;
+    margin-top: 20px;
+	}
+	.best-solutions-service h3 {
+    font-size: 24px;
+	}
+	#countdown ul li {
+    text-align: center;
+    width: 70px;
+    height: 70px;
+    padding: 10px;
+    border-radius: 14px;
+  }
+  #countdown ul li span {
+    font-size: 20px;
+    margin-top: 0px;
+	}
+	#countdown ul li {
+    font-size: 14px;
+	}
+	#countdown {
+    right: 0%;
+	}
+	.year-experience {
+    width: min-content;
+    margin-right: 20px;
+	}
+	.reservation-table .heading h2 {
+    width: 100%;
+	}
+	.best-food-restaurants form {
+    margin-left: 0;
+	}
+	.deal-week h2 {
+    font-size: 32px;
+  }
+  .deal-week del {
+    font-size: 18px;
+  }
+  .featured-imagebox-gallery {
+    margin-right: 5px;
+    margin-bottom: 5px;
+	}
+	.solutions-img img {
+    width: 100%;
+	}
+	ul.higher-reach li {
+    font-size: 14px;
+  }
+  .private-table h3 {
+    font-size: 25px;
+	}
+	.private-table {
+    width: 330px;
+    height: 330px;
+  }
+}
+@media(max-width: 600px){
+}
+@media(max-width: 576px){
+	.chef > img {
+    width: 100%;
+	}
+  .featured-dishes.product-detail-img {
+    padding: 30px;
+    width: 93%;
+  }
+  .product-img {
+    margin-top: 10px;
+    }
+  .good-food-steak h2 {
+    margin-bottom: 0px;
+  }
+  .opening-hours {
+    margin-bottom: 60px;
+  }
+  .delicious-menu.two {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .featured-arae-two-img {
+    margin-bottom: 0px;
+  }
+	.pagination li.next,.pagination li.prev {
+    width: 50px;
+  }
+  .product-info h3 {
+  	font-size: 34px;
+  }
+  .photo-gallery .featured-imagebox-gallery {
+    margin: 0;
+    width: 100%;
+    margin-bottom: 20px;
+	}
+  .featured-arae-two {
+    padding-bottom: 60px;
+  }
+	.opening-hours {
+    justify-content: center;
+	}
+	.pagination {
+    padding: 5px 35px;
+  }
+	.woocommerce-additional-fields textarea.input-text {
+    height: 200px;
+  }
+	.blog-img-video.video{
+		margin: 0;
+	}
+	.opening-hours {
+    margin-top: -30px;
+  }
+	.single-comment {
+    display: block;
+    text-align: center;
+	}
+	.single-comment h4 {
+    padding-top: 20px;
+	}
+	form.add-review.leave-comment button.button {
+    margin-left: 10px;
+	}
+	.leave-comment textarea {
+    width: 97%;
+    height: 150px;
+    margin: auto;
+    margin-bottom: 20px;
+  }
+	.comment h3 {
+    font-size: 30px;
+  }
+	ul.instagram-posts img {
+   		height: 80px;
+  }
+	.deal-week h2 span{
+		font-size: 24px;
+	}
+	.title-area-data h2 {
+    font-size: 50px;
+	}
+	.history-text h3 {
+    margin-top: 40px;
+	}
+	.history-text span {
+    left: 214px;
+    margin-top: 37px;
+	}
+	.history-text img{
+		margin-right: 0;
+	}	
+	.history-text {
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+	}
+	footer.three {
+    padding: 0px 10px;
+	}
+	.watch-video-img img.arrow{
+		left: 0;
+	}
+	.deal-week .quality-foods li {
+    width: 100%;
+	}
+	.deal-week h2 {
+    font-size: 24px;
+	}
+	.best-food-restaurants span {
+    font-size: 34px;
+	}
+	.bbtn {
+    width: 48%;
+	}
+	.best-food-restaurants form{
+		margin-top: 0;
+	}
+	.featured-arae-two:before{
+		display: none;
+	}
+	#mobile-nav,.mobile-nav{
+        width: 100%;
+    }
+	.download-from {
+    width: fit-content;
+	}
+	.header-social-media {
+    text-align: center;
+	}
+	.header-social-media a {
+    margin-left: 24px;
+    margin-bottom: 10px;
+	}
+	.gap {
+    padding: 60px 0;
+		}
+		.no-top{
+		    padding-top: 0;
+		}
+		.no-bottom{
+		    padding-bottom: 0;
+		}
+		.section-featured {
+    padding-top: 280px;
+    margin-top: -230px;
+		}		
+	.heading-two .line {
+    width: 170px;
+    height: 6px;
+    margin-bottom: 40px;
+    margin-top: 10px;
+	}
+	h2 {
+    font-size: 34px;
+	}
+	.download-from.apple {
+		margin-top: 20px;
+		margin-left: 0px;
+	}
+	.recent-news {
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+  }
+  .recent-news .d-flex.align-items-center{
+    justify-content: center;
+  }
+	.follow h2 {
+    font-size: 34px;
+    position: relative;
+	}
+	.recent-news img {
+    margin-right: 0px;
+    margin-bottom: 20px;
+	}
+	.heading h3 {
+    font-size: 38px;
+	}
+	.private-dining img {
+    width: 45%;
+	}
+	.featured-arae-three {
+    padding-top: 180px;
+	}
+	.three-slider.owl-carousel .owl-nav.disabled button:before{
+		display: none;
+	}
+	.featured-arae-three h1 {
+    font-size: 62px;
+	}
+  .featured-arae-two-img.three img {
+    width: 45%;
+  }
+  .how-we-work {
+    padding: 60px 0;
+    position: relative;
+  }
+  .deal-week.two {
+    margin-top: 10px;
+  }
+}
+@media(max-width: 500px){
+		img.quote {
+    width: 40px;
+    height: 40px;
+    padding: 6px;
+	}
+  footer {
+    padding-top: 60px;
+  }
+  .restaurant-card.coctail {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .hero-section {
+    max-height: 675px;
+    min-height: 675px;
+    padding-top: 50px;
+    }
+  .featured-area h5 {
+    line-height: 24px;
+    font-size: 14px;
+  }
+  .quote {
+    padding: 20px;
+  }
+  .bottom-bar  .logo img {
+    width: 70%;
+  }
+  .bottom-bar {
+    padding: 10px 20px;
+  }
+	.single-comment .star {
+    right: 10px;
+  }
+	.title-area-data h2 {
+    font-size: 40px;
+	}
+	.featured-imagebox-gallery {
+    margin-right: 5px;
+    width: 32%;
+    margin-bottom: 0;
+	}
+	.gallery-img-style {
+    justify-content: center;
+	}
+	.gallery-img-style {
+    flex-wrap: wrap;
+	}
+	.gallery-img-style {
+    margin-top: 10px;
+    margin-bottom: 10px;
+	}
+	.bbtn{
+		display: none;
+	}
+	#countdown {
+    right: 0%;
+    position: relative;
+    top: 0;
+	}
+	.deal-week-time img {
+    margin-top: 40px;
+	}
+	#countdown ul {
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-around;
+	}
+	.private-table {
+    position: relative;
+    margin: auto;
+	}
+	.private-table-img img {
+    width: 100%;
+	}
+	.private-table {
+    height: auto;
+    width: 350px;
+	}
+}
+@media(max-width: 480px){
+	form.add-review.leave-comment .rating {
+    display: block;
+	}
+  form.add-review.leave-comment .rating {
+    display: block;
+    padding-bottom: 20px;
+  }
+  .featured-arae-two {
+    padding-top: 110px;
+  }
+  .best-food-restaurants form {
+    margin-bottom: 30px;
+  }
+  .featured-area h1 {
+    font-size: 80px;
+    line-height: 78px;
+  }
+	.our-blog .recent-news-two {
+    padding-bottom: 0px;
+	}
+	.review h3 {
+    font-size: 30px;
+    margin-bottom: 10px;
+	}
+	form.add-review.leave-comment .rating {
+    display: block;
+    padding-bottom: 20px;
+	}
+	.pagination li {
+    width: 50px;
+  }
+	ol.breadcrumb a, .breadcrumb-item.active {
+    font-size: 14px;
+	}
+	.blog-img-video i svg {
+    width: 10px;	
+	}
+	.get-in-touch .booking{
+		flex-wrap: wrap;
+	}
+	.get-in-touch .booking li {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+	ol.breadcrumb {
+    padding: 10px 20px;
+    border-radius: 15px;
+    margin-top: 30px;
+	}
+	.post-tags {
+    padding: 20px 20px;
+  }
+	.blog-img h4 {
+    font-size: 14px;
+  }
+	.our-blog .recent-news-two h2 {
+    font-size: 30px;
+   }
+	.free-delivery h5 {
+    font-size: 14px;
+	}
+	.deal-week .quality-foods li {
+    width: 100%;
+	}
+	.private-dining img {
+    width: 45%;
+	}
+	.watch-video .heading h2 {
+    font-size: 34px;
+	}
+	.logo-white {
+    margin-bottom: 30px;
+    padding: 30px;
+	}
+	.follow h2 {
+    font-size: 26px;
+ }
+	.heading span {
+    font-size: 14px;
+    letter-spacing: 0px;
+			}
+	.discover h6 {
+    font-size: 18px;
+    padding-bottom: 5px;
+	}
+	.discover span {
+    font-size: 20px;
+	}
+	.heading h3 {
+    font-size: 25px;
+	}
+  .bratlee-hamint h3 {
+    font-size: 20px;
+  }
+}
+@media(max-width: 450px){
+	.bbq {
+    padding: 30px;
+    padding-bottom: 0;
+	}
+  ol.breadcrumb {
+    margin-top: 15px;
+    margin-bottom: 20px;
+  }
+  .blog-img {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .about-food-text h5 {
+    font-size: 18px;
+  }
+  .about-food-text i {
+    margin-right: 10px;
+  }
+  .easy-orded-video {
+    margin-top: 0px;
+  }
+  .post-tags {
+    margin-top: 20px;
+  }
+  .comment {
+    padding-top: 20px;
+  }
+  form.add-review.leave-comment .rating {
+    display: block;
+     padding-bottom: 0px; 
+  }
+  .private-table {
+    width: 330px;
+  }
+  .fast-food-menus.two {
+    margin-top: 115px;
+  }
+  .deal-week.two {
+    margin-top: 10px;
+    padding: 15px;
+  }
+  .complimentary h5 {
+    padding-top: 22px;
+  }
+  .section-weekly .heading {
+    margin-bottom: 20px;
+  }
+  .private {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  .private-dining-text {
+    width: 78%;
+    margin: auto;
+    margin-top: 20px;
+  }
+  .watch-video .heading {
+    padding-bottom: 20px;
+  }
+  .featured-arae-three p {
+    width: 90%;
+    font-size: 14px;
+    padding-bottom: 20px;
+  }
+  .fastest-delivery-img .good-food-steak-upto {
+    top: 36%;
+  }
+  .welcome-to-foodio {
+    margin-top: 0;
+  }
+  .featured-arae-three {
+    padding-top: 130px;
+  }
+  .bbr-price {
+    margin-top: -10px;
+    transform: translateY(22px);
+  }
+  .discover span {
+    transform: translateY(-5px);
+  }
+  section.slider-hero {
+    margin-bottom: -30px;
+  }
+  .heading-two .line {
+    margin-bottom: 20px;
+    margin-top: 10px;
+  }
+  .three-slider.owl-theme .owl-nav.disabled+.owl-dots, .bratlee-slider.owl-theme .owl-nav.disabled+.owl-dots, .dishes.owl-theme .owl-nav.disabled+.owl-dots, .choosecategory.owl-theme .owl-nav.disabled+.owl-dots {
+    margin-top: 20px;
+  }
+  .app-foods .d-sm-flex.mt-5 {
+    margin-top: 1rem !important;
+  }
+  .bbq {
+    margin-bottom: 36px;
+  }
+  .bbq h2 {
+    font-size: 30px;
+  }
+  .weekly-special {
+    right: auto;
+    left: 10px;
+  }
+	.chef-detail ul li h6 {
+    font-size: 14px;
+  }
+  .chef-detail h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+	}
+	.breadcrumb-item+.breadcrumb-item::before {
+    padding: 0px 10px;
+	}
+	.history-text span {
+    left: 151px;
+  }
+	.featured-arae-three h1 {
+    font-size: 52px;
+	}
+	.fastest-delivery ul.star {
+    display: none;
+	}
+	.complimentary h5 a {
+    margin: auto;
+    margin-top: 14px;
+    display:table;
+	}
+	.fast-food-img {
+    margin-left: 10px;
+  }
+	.year-experience h3 {
+    font-size: 18px;
+	}
+	.year-experience {
+    padding: 16px;
+	}
+	.free-delivery {
+    display: none;
+	}
+	p {
+    font-size: 14px;
+    line-height: 26px;
+ }
+ .video a {
+    font-size: 12px;
+	}
+ .bbq p {
+    font-size: 14px;
+    line-height: 28px;
+	}
+	.video i {
+    width: 50px;
+    height: 50px;
+  }
+	.follow i {
+    width: 70px;
+    height: 70px;
+    font-size: 36px;
+    margin-bottom: 18px;
+	}
+	.watch-video .heading h2 {
+    font-size: 26px;
+	}
+	.chef-text {
+    width: auto;
+    height: auto;
+    padding: 89px 0;
+ }
+}
+@media(max-width: 410px){
+	.discover h4 {
+    margin-top: 30px;
+    font-size: 30px;
+	}
+  .parties-events-text h2 {
+    font-size: 30px;
+  }
+  .blog-img h4 {
+    border-radius: 40px;
+    font-size: 12px;
+    bottom: 12px;
+    left: 6px;
+  }
+  .fastest-delivery h4 {
+    font-size: 18px;
+  }
+  .featured-area h1 {
+    font-size: 70px;
+    line-height: 70px;
+  }
+	ul.star li i {
+    font-size: 12px;
+    padding-right: 2px;
+	}
+	.single-comment a {
+    font-size: 12px;
+    padding: 4px 12px;
+    border-radius: 6px;
+	}
+	.our-blog .recent-news-two h2 {
+    font-size: 28px;
+  }
+  .quote h3 {
+    font-size: 16px;
+    line-height: 26px;
+		}
+		.featured-arae-three h1 {
+    	font-size: 48px;
+		}
+		.featured-imagebox-gallery {
+      width: 47%;
+    }
+		.follow {
+    padding-top: 80px;
+    padding-bottom: 80px;
+ }
+		.reserve-table-text p {
+    margin-bottom: 28px;
+    padding-top: 10px;
+		}
+		.reserve-table-text h3 {
+    font-size: 26px;
+		}
+}
+@media(max-width: 375px){
+	h2 {
+    font-size: 28px;
+	}
+  .featured-arae-three h1 {
+    font-size: 44px;
+    }
+	.pagination li a {
+    font-size: 14px;
+    border: 0;
+    padding-right: 5px;
+  }
+  .pagination li {
+    width: 40px;
+	}
+	.history-text span {
+    left: 120px;
+	}
+	.best-food-restaurants span {
+    font-size: 28px;
+	}
+	.best-food-restaurants h6 {
+    font-size: 14px;
+	}
+	.best-food-restaurants h6 {
+    font-size: 14px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+	}
+}
